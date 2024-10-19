@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/suprit-singh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suprit-singh/Leetcode-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/suprit-singh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/suprit-singh/Leetcode-problems/tree/master/0326-power-of-three) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/suprit-singh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/suprit-singh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/suprit-singh/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suprit-singh/Leetcode-problems/tree/master/0342-power-of-four) |

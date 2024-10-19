@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/suprit-singh/Leetcode-problems/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/suprit-singh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/suprit-singh/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suprit-singh/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suprit-singh/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/suprit-singh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/suprit-singh/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suprit-singh/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suprit-singh/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -31,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/suprit-singh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suprit-singh/Leetcode-problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

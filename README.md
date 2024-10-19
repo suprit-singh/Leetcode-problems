@@ -44,6 +44,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/suprit-singh/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/suprit-singh/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suprit-singh/Leetcode-problems/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/suprit-singh/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/suprit-singh/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/suprit-singh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suprit-singh/Leetcode-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/suprit-singh/Leetcode-problems/tree/master/0231-power-of-two) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/suprit-singh/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suprit-singh/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suprit-singh/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suprit-singh/Leetcode-problems/tree/master/0058-length-of-last-word) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/suprit-singh/Leetcode-problems/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/suprit-singh/Leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suprit-singh/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suprit-singh/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suprit-singh/Leetcode-problems/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +78,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suprit-singh/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suprit-singh/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suprit-singh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/suprit-singh/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1205-defanging-an-ip-address](https://github.com/suprit-singh/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |

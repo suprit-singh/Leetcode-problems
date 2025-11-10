@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/suprit-singh/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/suprit-singh/Leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/suprit-singh/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/suprit-singh/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/suprit-singh/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suprit-singh/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suprit-singh/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/suprit-singh/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suprit-singh/Leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/suprit-singh/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/suprit-singh/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suprit-singh/Leetcode-problems/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/suprit-singh/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Tree
 |  |
 | ------- |
